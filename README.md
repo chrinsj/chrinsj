@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi. I am Chris Groen and I am a Software Engineering student.
+Hi. I am Chris and I am a Software Engineering student.
 
 
 ## 🌐 Socials:
