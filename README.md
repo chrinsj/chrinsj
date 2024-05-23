@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hoi. Mijn naam is Chris Groen.<br><br>Ik volg momenteel de opleiding Software Development.
+Hi. I am Chris Groen and I am a Software Engineering student.
 
 
 ## 🌐 Socials:
